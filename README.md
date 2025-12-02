@@ -1,6 +1,23 @@
 <div align=center>
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20;&fontSize=70&animation=twinkling&desc=hyun9758's%20Github%20Profile&descAlig700&descAlignY=25&)
+
+
+## HISTORY
+`2021.03-2026.02` Bachelor of Science in Software Engineering <br>
+`2023.10-2024.03` Likelion Frontend Bootcamp (8th) <br>
+`2025.01-2025.03` Likelion Frontend Bootcamp Plus (3rd) <br>
+`2025.03-2025.11` Capston Project Contest (Q-Checker) - Excellence Award 🏆 <br>
+
+
+## PROJECTS
+
+| Title                           | Description                 | Stack   | Duration         | More                                                                                                      |
+|---------------------------------|-----------------------------|---------|------------------|-----------------------------------------------------------------------------------------------------------|
+| **DOSIRAK (Team)**                       | 도시락 커뮤니티 서비스  | JavaScript | 2024.02 - 2024.03 | [Github](https://github.com/FRONTENDSCHOOL8/dosirak) |
+| **FUNGLE (Team)**                  | 도서 펀딩 및 북 커뮤니티 | Typescript  | 2025.02 - 2025.03 |[Site](https://fungle.site/) &nbsp; [GitHub](https://github.com/FRONT-END-BOOTCAMP-PLUS-3/fungle) |
+| **Kage (Personal)**                   | 캐릭터 대화 서비스  | Typescript  | 2025.09 | [Site](https://kage-seven.vercel.app/) &nbsp; [GitHub](https://github.com/hyun9758/Kage) |
+| **Q-Checker (Team)**    | QR 출석 관리 어플리케이션 | React-native  | 2025.03 - 2025.11 | [GitHub](https://github.com/Capstone-project-syu/q-checker)                                                                                              |
+| **Unplug (Team)**                   | 도파민 디톡스 어플리케이션       | React-native, Java  | 2025.09 - 2025.11 |[GitHub](https://github.com/BridgeON-Team/unplug) |
 
 
 ## STATCK
@@ -13,14 +30,6 @@
 <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=black"/>
 <br>
 
-## INFO
+## BLOG
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyun9758&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<br>
-![hyun9758's github stats](https://github-readme-stats.vercel.app/api?username=hyun9758&show_icons=true&theme=tokyonight)
-
-## Social
-
-![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jj020305@gmail.com)
-<img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/>
-</div>
+[![Blog](https://img.shields.io/badge/Blog-green?style=for-the-badge&logo=Vercel&logoColor=white)](https://velog.io/@hyun9758/posts)
