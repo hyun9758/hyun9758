@@ -14,7 +14,7 @@
 | Title                           | Description                 | Stack   | Duration         | More                                                                                                      |
 |---------------------------------|-----------------------------|---------|------------------|-----------------------------------------------------------------------------------------------------------|
 | **DOSIRAK (Team)**                       | 도시락 커뮤니티 서비스  | JavaScript | 2024.02 - 2024.03 | [Github](https://github.com/FRONTENDSCHOOL8/dosirak) |
-| **FUNGLE (Team)**                  | 도서 펀딩 및 북 커뮤니티 | Typescript  | 2025.02 - 2025.03 |[Site](https://fungle.site/) &nbsp; [GitHub](https://github.com/FRONT-END-BOOTCAMP-PLUS-3/fungle) |
+| **FUNGLE (Team)**                  | 도서 펀딩 및 북 커뮤니티 | Typescript  | 2025.02 - 2025.03 |[GitHub](https://github.com/FRONT-END-BOOTCAMP-PLUS-3/fungle) |
 | **Kage (Personal)**                   | 캐릭터 대화 서비스  | Typescript  | 2025.09 | [Site](https://kage-seven.vercel.app/) &nbsp; [GitHub](https://github.com/hyun9758/Kage) |
 | **Q-Checker (Team)**    | QR 출석 관리 어플리케이션 | React-native  | 2025.03 - 2025.11 | [GitHub](https://github.com/Capstone-project-syu/q-checker)                                                                                              |
 | **Unplug (Team)**                   | 도파민 디톡스 어플리케이션       | React-native, Java  | 2025.09 - 2025.11 |[GitHub](https://github.com/BridgeON-Team/unplug) |
